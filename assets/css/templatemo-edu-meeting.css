@@ -718,6 +718,17 @@ banner
   transform: translateY(-50%);
 }
 
+.main-banner .pictu {
+  margin-left: auto;
+  margin-right: 10px;
+  margin-top: 270px;
+  top: 50%;
+ 
+  width: 430px;
+  height: 430px;
+  opacity: 0.7;
+
+}
 .main-banner .caption h6 {
   margin-top: 0px;
   font-size: 15px;
@@ -1261,6 +1272,7 @@ section.our-facts {
   background-repeat: no-repeat;
   background-size: cover;
   padding: 140px 0px 125px 0px;
+
 }
 
 section.our-facts h2 {
